@@ -210,45 +210,6 @@
                 href="https://alejandracasado.github.io/es/publication_types/"
                 />
   </url><url>
-    <loc>https://alejandracasado.github.io/es/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/tag/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/tag/deep-learning/"
-                />
-  </url><url>
-    <loc>https://alejandracasado.github.io/es/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/project/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/project/example/"
-                />
-  </url><url>
-    <loc>https://alejandracasado.github.io/es/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/project/"
-                />
-  </url><url>
     <loc>https://alejandracasado.github.io/es/admin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -271,6 +232,30 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://alejandracasado.github.io/es/categories/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/es/project/cynamon/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/project/cynamon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/project/cynamon/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/es/project/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/project/"
                 />
   </url>
 </urlset>
