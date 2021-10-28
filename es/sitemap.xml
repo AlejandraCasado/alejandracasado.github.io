@@ -17,16 +17,6 @@
   </url><url>
     <loc>https://alejandracasado.github.io/es/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/talk/example-talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/talk/example-talk/"
-                />
   </url><url>
     <loc>https://alejandracasado.github.io/es/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
@@ -39,6 +29,19 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://alejandracasado.github.io/es/event/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/es/talk/combinando-grasp-con-iterated-greedy-para-el-problema-de-la-maxima-intersecion-de-k-conjuntos./</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/talk/example-talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/talk/combinando-grasp-con-iterated-greedy-para-el-problema-de-la-maxima-intersecion-de-k-conjuntos./"
                 />
   </url><url>
     <loc>https://alejandracasado.github.io/es/publication-type/2/</loc>
