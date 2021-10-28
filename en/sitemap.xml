@@ -247,21 +247,11 @@
     <loc>https://alejandracasado.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alejandracasado.github.io/admin/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/admin/"
-                />
-  </url><url>
     <loc>https://alejandracasado.github.io/tag/competitive-project/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alejandracasado.github.io/project/cynamon/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -274,6 +264,7 @@
                 />
   </url><url>
     <loc>https://alejandracasado.github.io/project/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -283,6 +274,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://alejandracasado.github.io/project/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/admin/"
                 />
   </url>
 </urlset>
