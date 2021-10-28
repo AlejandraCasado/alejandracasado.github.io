@@ -2,35 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alejandracasado.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/"
-                />
-  </url><url>
-    <loc>https://alejandracasado.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/event/"
-                />
-  </url><url>
-    <loc>https://alejandracasado.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alejandracasado.github.io/publication-type/2/</loc>
     <lastmod>2021-10-25T19:15:44+02:00</lastmod>
     <xhtml:link
@@ -42,6 +13,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://alejandracasado.github.io/publication-type/2/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/</loc>
+    <lastmod>2021-10-25T19:15:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/"
                 />
   </url><url>
     <loc>https://alejandracasado.github.io/publication/casas-21/</loc>
@@ -182,6 +166,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://alejandracasado.github.io/admin/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/event/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/event/"
                 />
   </url>
 </urlset>
