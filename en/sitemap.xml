@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alejandracasado.github.io/publication-type/2/</loc>
-    <lastmod>2021-10-25T19:15:44+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/publication-type/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/publication-type/2/"
-                />
-  </url><url>
     <loc>https://alejandracasado.github.io/</loc>
     <lastmod>2021-10-25T19:15:44+02:00</lastmod>
     <xhtml:link
@@ -26,6 +13,162 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://alejandracasado.github.io/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/tag/busqueda-local/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/tag/busqueda-local/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/tag/busqueda-local/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/talk/combinando-grasp-con-iterated-greedy-para-el-problema-de-la-maxima-intersecion-de-k-conjuntos/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/talk/combinando-grasp-con-iterated-greedy-para-el-problema-de-la-maxima-intersecion-de-k-conjuntos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/talk/combinando-grasp-con-iterated-greedy-para-el-problema-de-la-maxima-intersecion-de-k-conjuntos/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/event/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/event/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/tag/diversidad/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/tag/diversidad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/tag/diversidad/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/tag/grasp/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/tag/grasp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/tag/grasp/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/tag/iterated-greedy/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/tag/iterated-greedy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/tag/iterated-greedy/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/tag/kmis/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/tag/kmis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/tag/kmis/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/tag/metaheuristicas/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/tag/metaheuristicas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/tag/metaheuristicas/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/tag/multi-objetivo/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/tag/multi-objetivo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/tag/multi-objetivo/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/tags/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/talk/un-enfoque-multi-objetivo-para-el-problema-de-la-maxima-diversidad/</loc>
+    <lastmod>2021-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/talk/un-enfoque-multi-objetivo-para-el-problema-de-la-maxima-diversidad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/talk/un-enfoque-multi-objetivo-para-el-problema-de-la-maxima-diversidad/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/publication-type/2/</loc>
+    <lastmod>2021-10-25T19:15:44+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/publication-type/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/publication-type/2/"
                 />
   </url><url>
     <loc>https://alejandracasado.github.io/publication/casas-21/</loc>
@@ -88,19 +231,6 @@
   </url><url>
     <loc>https://alejandracasado.github.io/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alejandracasado.github.io/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/tags/"
-                />
   </url><url>
     <loc>https://alejandracasado.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
@@ -166,18 +296,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://alejandracasado.github.io/admin/"
-                />
-  </url><url>
-    <loc>https://alejandracasado.github.io/event/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/event/"
                 />
   </url>
 </urlset>
