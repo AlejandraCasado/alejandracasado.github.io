@@ -210,43 +210,6 @@
                 href="https://alejandracasado.github.io/publication/"
                 />
   </url><url>
-    <loc>https://alejandracasado.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alejandracasado.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://alejandracasado.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alejandracasado.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alejandracasado.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alejandracasado.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alejandracasado.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alejandracasado.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alejandracasado.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alejandracasado.github.io/tag/competitive-project/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -286,6 +249,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://alejandracasado.github.io/admin/"
+                />
+  </url><url>
+    <loc>https://alejandracasado.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alejandracasado.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alejandracasado.github.io/categories/"
                 />
   </url>
 </urlset>
