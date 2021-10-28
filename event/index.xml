@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Alejandra Casado</title>
+    <title>Conferences | Alejandra Casado</title>
     <link>https://alejandracasado.github.io/event/</link>
       <atom:link href="https://alejandracasado.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <description>Conferences</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alejandracasado.github.io/media/icon_hu1f543a3de30e990726db7be5363e0a05_28997_512x512_fill_lanczos_center_3.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Conferences</title>
       <link>https://alejandracasado.github.io/event/</link>
     </image>
     
