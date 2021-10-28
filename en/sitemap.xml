@@ -30,16 +30,6 @@
   </url><url>
     <loc>https://alejandracasado.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/talk/combinando-grasp-con-iterated-greedy-para-el-problema-de-la-maxima-intersecion-de-k-conjuntos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/talk/example-talk/"
-                />
   </url><url>
     <loc>https://alejandracasado.github.io/publication-type/2/</loc>
     <lastmod>2021-10-25T19:15:44+02:00</lastmod>
@@ -95,16 +85,6 @@
   </url><url>
     <loc>https://alejandracasado.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/tag/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/tag/academic/"
-                />
   </url><url>
     <loc>https://alejandracasado.github.io/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
@@ -121,29 +101,9 @@
   </url><url>
     <loc>https://alejandracasado.github.io/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/category/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/category/demo/"
-                />
   </url><url>
     <loc>https://alejandracasado.github.io/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/post/"
-                />
   </url><url>
     <loc>https://alejandracasado.github.io/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
@@ -160,68 +120,18 @@
   </url><url>
     <loc>https://alejandracasado.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/post/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/post/getting-started/"
-                />
   </url><url>
     <loc>https://alejandracasado.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/tag/%E5%BC%80%E6%BA%90/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/tag/%E5%BC%80%E6%BA%90/"
-                />
   </url><url>
     <loc>https://alejandracasado.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/category/%E6%95%99%E7%A8%8B/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/category/%E6%95%99%E7%A8%8B/"
-                />
   </url><url>
     <loc>https://alejandracasado.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/slides/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/slides/"
-                />
   </url><url>
     <loc>https://alejandracasado.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://alejandracasado.github.io/es/slides/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://alejandracasado.github.io/slides/example/"
-                />
   </url><url>
     <loc>https://alejandracasado.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
