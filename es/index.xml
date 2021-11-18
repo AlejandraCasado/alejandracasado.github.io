@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alejandra Casado</title>
-    <link>https://alejandracasado.github.io/es/</link>
-      <atom:link href="https://alejandracasado.github.io/es/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alejandracasadoceballos.github.io/es/</link>
+      <atom:link href="https://alejandracasadoceballos.github.io/es/index.xml" rel="self" type="application/rss+xml" />
     <description>Alejandra Casado</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Wed, 22 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://alejandracasado.github.io/media/icon_hu1f543a3de30e990726db7be5363e0a05_28997_512x512_fill_lanczos_center_3.png</url>
+      <url>https://alejandracasadoceballos.github.io/media/icon_hu1f543a3de30e990726db7be5363e0a05_28997_512x512_fill_lanczos_center_3.png</url>
       <title>Alejandra Casado</title>
-      <link>https://alejandracasado.github.io/es/</link>
+      <link>https://alejandracasadoceballos.github.io/es/</link>
     </image>
     
     <item>
       <title>Combinando GRASP con Iterated Greedy para el problema de la máxima interseción de k-conjuntos</title>
-      <link>https://alejandracasado.github.io/es/talk/combinando-grasp-con-iterated-greedy-para-el-problema-de-la-maxima-intersecion-de-k-conjuntos/</link>
+      <link>https://alejandracasadoceballos.github.io/es/talk/combinando-grasp-con-iterated-greedy-para-el-problema-de-la-maxima-intersecion-de-k-conjuntos/</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://alejandracasado.github.io/es/talk/combinando-grasp-con-iterated-greedy-para-el-problema-de-la-maxima-intersecion-de-k-conjuntos/</guid>
+      <guid>https://alejandracasadoceballos.github.io/es/talk/combinando-grasp-con-iterated-greedy-para-el-problema-de-la-maxima-intersecion-de-k-conjuntos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Un enfoque multi-objetivo para el problema de la máxima diversidad</title>
-      <link>https://alejandracasado.github.io/es/talk/un-enfoque-multi-objetivo-para-el-problema-de-la-maxima-diversidad/</link>
+      <link>https://alejandracasadoceballos.github.io/es/talk/un-enfoque-multi-objetivo-para-el-problema-de-la-maxima-diversidad/</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://alejandracasado.github.io/es/talk/un-enfoque-multi-objetivo-para-el-problema-de-la-maxima-diversidad/</guid>
+      <guid>https://alejandracasadoceballos.github.io/es/talk/un-enfoque-multi-objetivo-para-el-problema-de-la-maxima-diversidad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Objective GRASP for Maximizing Diversity</title>
-      <link>https://alejandracasado.github.io/es/publication/casas-21/</link>
+      <link>https://alejandracasadoceballos.github.io/es/publication/casas-21/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://alejandracasado.github.io/es/publication/casas-21/</guid>
+      <guid>https://alejandracasadoceballos.github.io/es/publication/casas-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cybersecurity, Network Analysisis and Monitoring for the Next Generation Internet</title>
-      <link>https://alejandracasado.github.io/es/project/cynamon/</link>
+      <link>https://alejandracasadoceballos.github.io/es/project/cynamon/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://alejandracasado.github.io/es/project/cynamon/</guid>
+      <guid>https://alejandracasadoceballos.github.io/es/project/cynamon/</guid>
       <description>&lt;p&gt;La ciberseguridad desempeña hoy en día un papel clave en la sociedad y economía modernas, y su protección es un reto fundamental en las estrategias de seguridad nacional. A lo largo de la última década, diversos avances tecnológicos han contribuido a que nuestra dependencia del ciberespacio sea aún mayor, como la generación y el procesamiento de cantidades masivas de datos, la influencia de las redes sociales en todas las actividades de nuestra vida cotidiana o la tendencia a conectar a Internet prácticamente todos los dispositivos del mundo real.&lt;/p&gt;
 &lt;p&gt;El programa científico propuesto en este proyecto pretende contribuir a una ciberseguridad más segura en nuestro contexto tecnológico actual y futuro. Nuestro enfoque identifica tres paradigmas, cada uno con un grado de madurez diferente, que remodelarán la ciberseguridad en los próximos años. Estos son: el procesamiento de cantidades masivas de información (big data), incluidas las generadas por los ciudadanos y los dispositivos; la incrustación de ordenadores en prácticamente todos los objetos de la vida real (sistemas ciberfísicos) y su conexión a Internet (IoT, Internet de las cosas); y los retos y oportunidades asociados al auge de la computación cuántica. Para hacer frente a estos retos proponemos un programa de trabajo interdisciplinar en el que participan cinco grupos de investigación con probada experiencia en las áreas de seguridad de sistemas y aplicaciones, análisis de datos, sistemas de comunicación de nueva generación y criptografía.&lt;/p&gt;
 &lt;p&gt;El proyecto establece tres objetivos generales estrechamente relacionados con los tres retos mencionados. En primer lugar, desarrollaremos técnicas avanzadas de análisis de datos para tratar una cantidad masiva de datos, centrándonos en dos dominios de aplicación clave: las redes sociales y las redes de nueva generación. En segundo lugar, propondremos mecanismos y herramientas de seguridad para los dispositivos IoT conectados y los servicios de red a los que acceden. Por último, exploraremos las técnicas criptográficas que proporcionan servicios de seguridad de la información y protegen la privacidad de los usuarios. Esto se hará aprovechando nuevas técnicas como las aplicaciones de la tecnología blockchain, así como la amenaza que suponen los ordenadores cuánticos.&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title></title>
-      <link>https://alejandracasado.github.io/es/admin/config.yml</link>
+      <link>https://alejandracasadoceballos.github.io/es/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alejandracasado.github.io/es/admin/config.yml</guid>
+      <guid>https://alejandracasadoceballos.github.io/es/admin/config.yml</guid>
       <description></description>
     </item>
     
