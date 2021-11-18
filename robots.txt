@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://alejandracasadoceballos.github.io/sitemap.xml
+Sitemap: https://alejandracasado.github.io/sitemap.xml
