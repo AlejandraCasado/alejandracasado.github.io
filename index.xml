@@ -5,12 +5,60 @@
     <link>https://alejandracasado.github.io/</link>
       <atom:link href="https://alejandracasado.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alejandra Casado</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 12:22:43 +0100</lastBuildDate>
     <image>
       <url>https://alejandracasado.github.io/media/icon_hu1f543a3de30e990726db7be5363e0a05_28997_512x512_fill_lanczos_center_3.png</url>
       <title>Alejandra Casado</title>
       <link>https://alejandracasado.github.io/</link>
     </image>
+    
+    <item>
+      <title>Casas 21</title>
+      <link>https://alejandracasado.github.io/content/content/es/publication/casas-21/</link>
+      <pubDate>Mon, 12 Dec 2022 12:22:43 +0100</pubDate>
+      <guid>https://alejandracasado.github.io/content/content/es/publication/casas-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Casado 22 B</title>
+      <link>https://alejandracasado.github.io/content/publication/casado-22-b/</link>
+      <pubDate>Mon, 12 Dec 2022 12:16:27 +0100</pubDate>
+      <guid>https://alejandracasado.github.io/content/publication/casado-22-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Casado 22 A</title>
+      <link>https://alejandracasado.github.io/content/publication/casado-22-a/</link>
+      <pubDate>Mon, 12 Dec 2022 12:16:26 +0100</pubDate>
+      <guid>https://alejandracasado.github.io/content/publication/casado-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Casas 21</title>
+      <link>https://alejandracasado.github.io/content/publication/casas-21/</link>
+      <pubDate>Mon, 12 Dec 2022 12:16:25 +0100</pubDate>
+      <guid>https://alejandracasado.github.io/content/publication/casas-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A GRASP algorithm with Tabu Search improvement for solving the maximum intersection of k-subsets problem</title>
+      <link>https://alejandracasado.github.io/publication/casado-22-a/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://alejandracasado.github.io/publication/casado-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable neighborhood search approach with intensified shake for monitor placement</title>
+      <link>https://alejandracasado.github.io/publication/casado-22-b/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://alejandracasado.github.io/publication/casado-22-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Combinando GRASP con Iterated Greedy para el problema de la máxima interseción de k-conjuntos</title>
